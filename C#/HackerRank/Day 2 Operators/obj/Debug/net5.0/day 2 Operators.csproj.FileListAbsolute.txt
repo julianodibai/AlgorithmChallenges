@@ -1,0 +1,16 @@
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\day 2 Operators\bin\Debug\net5.0\day 2 Operators.exe
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\day 2 Operators\bin\Debug\net5.0\day 2 Operators.deps.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\day 2 Operators\bin\Debug\net5.0\day 2 Operators.runtimeconfig.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\day 2 Operators\bin\Debug\net5.0\day 2 Operators.runtimeconfig.dev.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\day 2 Operators\bin\Debug\net5.0\day 2 Operators.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\day 2 Operators\bin\Debug\net5.0\ref\day 2 Operators.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\day 2 Operators\bin\Debug\net5.0\day 2 Operators.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\day 2 Operators\obj\Debug\net5.0\day 2 Operators.csproj.AssemblyReference.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\day 2 Operators\obj\Debug\net5.0\day 2 Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\day 2 Operators\obj\Debug\net5.0\day 2 Operators.AssemblyInfoInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\day 2 Operators\obj\Debug\net5.0\day 2 Operators.AssemblyInfo.cs
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\day 2 Operators\obj\Debug\net5.0\day 2 Operators.csproj.CoreCompileInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\day 2 Operators\obj\Debug\net5.0\day 2 Operators.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\day 2 Operators\obj\Debug\net5.0\ref\day 2 Operators.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\day 2 Operators\obj\Debug\net5.0\day 2 Operators.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\day 2 Operators\obj\Debug\net5.0\day 2 Operators.genruntimeconfig.cache

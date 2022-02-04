@@ -1,0 +1,16 @@
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 6 Let's Review\bin\Debug\net5.0\Day 6 Let's Review.exe
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 6 Let's Review\bin\Debug\net5.0\Day 6 Let's Review.deps.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 6 Let's Review\bin\Debug\net5.0\Day 6 Let's Review.runtimeconfig.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 6 Let's Review\bin\Debug\net5.0\Day 6 Let's Review.runtimeconfig.dev.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 6 Let's Review\bin\Debug\net5.0\Day 6 Let's Review.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 6 Let's Review\bin\Debug\net5.0\ref\Day 6 Let's Review.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 6 Let's Review\bin\Debug\net5.0\Day 6 Let's Review.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 6 Let's Review\obj\Debug\net5.0\Day 6 Let's Review.csproj.AssemblyReference.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 6 Let's Review\obj\Debug\net5.0\Day 6 Let's Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 6 Let's Review\obj\Debug\net5.0\Day 6 Let's Review.AssemblyInfoInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 6 Let's Review\obj\Debug\net5.0\Day 6 Let's Review.AssemblyInfo.cs
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 6 Let's Review\obj\Debug\net5.0\Day 6 Let's Review.csproj.CoreCompileInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 6 Let's Review\obj\Debug\net5.0\Day 6 Let's Review.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 6 Let's Review\obj\Debug\net5.0\ref\Day 6 Let's Review.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 6 Let's Review\obj\Debug\net5.0\Day 6 Let's Review.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 6 Let's Review\obj\Debug\net5.0\Day 6 Let's Review.genruntimeconfig.cache

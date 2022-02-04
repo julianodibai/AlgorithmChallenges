@@ -1,0 +1,16 @@
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 3 Intro to Conditional Statements\bin\Debug\net5.0\Day 3 Intro to Conditional Statements.exe
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 3 Intro to Conditional Statements\bin\Debug\net5.0\Day 3 Intro to Conditional Statements.deps.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 3 Intro to Conditional Statements\bin\Debug\net5.0\Day 3 Intro to Conditional Statements.runtimeconfig.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 3 Intro to Conditional Statements\bin\Debug\net5.0\Day 3 Intro to Conditional Statements.runtimeconfig.dev.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 3 Intro to Conditional Statements\bin\Debug\net5.0\Day 3 Intro to Conditional Statements.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 3 Intro to Conditional Statements\bin\Debug\net5.0\ref\Day 3 Intro to Conditional Statements.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 3 Intro to Conditional Statements\bin\Debug\net5.0\Day 3 Intro to Conditional Statements.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 3 Intro to Conditional Statements\obj\Debug\net5.0\Day 3 Intro to Conditional Statements.csproj.AssemblyReference.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 3 Intro to Conditional Statements\obj\Debug\net5.0\Day 3 Intro to Conditional Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 3 Intro to Conditional Statements\obj\Debug\net5.0\Day 3 Intro to Conditional Statements.AssemblyInfoInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 3 Intro to Conditional Statements\obj\Debug\net5.0\Day 3 Intro to Conditional Statements.AssemblyInfo.cs
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 3 Intro to Conditional Statements\obj\Debug\net5.0\Day 3 Intro to Conditional Statements.csproj.CoreCompileInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 3 Intro to Conditional Statements\obj\Debug\net5.0\Day 3 Intro to Conditional Statements.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 3 Intro to Conditional Statements\obj\Debug\net5.0\ref\Day 3 Intro to Conditional Statements.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 3 Intro to Conditional Statements\obj\Debug\net5.0\Day 3 Intro to Conditional Statements.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 3 Intro to Conditional Statements\obj\Debug\net5.0\Day 3 Intro to Conditional Statements.genruntimeconfig.cache

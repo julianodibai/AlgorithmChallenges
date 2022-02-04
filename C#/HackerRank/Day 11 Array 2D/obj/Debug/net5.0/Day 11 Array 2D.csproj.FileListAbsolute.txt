@@ -1,0 +1,16 @@
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 11 Array 2D\bin\Debug\net5.0\Day 11 Array 2D.exe
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 11 Array 2D\bin\Debug\net5.0\Day 11 Array 2D.deps.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 11 Array 2D\bin\Debug\net5.0\Day 11 Array 2D.runtimeconfig.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 11 Array 2D\bin\Debug\net5.0\Day 11 Array 2D.runtimeconfig.dev.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 11 Array 2D\bin\Debug\net5.0\Day 11 Array 2D.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 11 Array 2D\bin\Debug\net5.0\ref\Day 11 Array 2D.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 11 Array 2D\bin\Debug\net5.0\Day 11 Array 2D.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 11 Array 2D\obj\Debug\net5.0\Day 11 Array 2D.csproj.AssemblyReference.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 11 Array 2D\obj\Debug\net5.0\Day 11 Array 2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 11 Array 2D\obj\Debug\net5.0\Day 11 Array 2D.AssemblyInfoInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 11 Array 2D\obj\Debug\net5.0\Day 11 Array 2D.AssemblyInfo.cs
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 11 Array 2D\obj\Debug\net5.0\Day 11 Array 2D.csproj.CoreCompileInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 11 Array 2D\obj\Debug\net5.0\Day 11 Array 2D.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 11 Array 2D\obj\Debug\net5.0\ref\Day 11 Array 2D.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 11 Array 2D\obj\Debug\net5.0\Day 11 Array 2D.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 11 Array 2D\obj\Debug\net5.0\Day 11 Array 2D.genruntimeconfig.cache

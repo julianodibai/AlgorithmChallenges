@@ -1,0 +1,16 @@
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 13 Abstract Classes\bin\Debug\net5.0\Day 13 Abstract Classes.exe
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 13 Abstract Classes\bin\Debug\net5.0\Day 13 Abstract Classes.deps.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 13 Abstract Classes\bin\Debug\net5.0\Day 13 Abstract Classes.runtimeconfig.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 13 Abstract Classes\bin\Debug\net5.0\Day 13 Abstract Classes.runtimeconfig.dev.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 13 Abstract Classes\bin\Debug\net5.0\Day 13 Abstract Classes.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 13 Abstract Classes\bin\Debug\net5.0\ref\Day 13 Abstract Classes.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 13 Abstract Classes\bin\Debug\net5.0\Day 13 Abstract Classes.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 13 Abstract Classes\obj\Debug\net5.0\Day 13 Abstract Classes.csproj.AssemblyReference.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 13 Abstract Classes\obj\Debug\net5.0\Day 13 Abstract Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 13 Abstract Classes\obj\Debug\net5.0\Day 13 Abstract Classes.AssemblyInfoInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 13 Abstract Classes\obj\Debug\net5.0\Day 13 Abstract Classes.AssemblyInfo.cs
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 13 Abstract Classes\obj\Debug\net5.0\Day 13 Abstract Classes.csproj.CoreCompileInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 13 Abstract Classes\obj\Debug\net5.0\Day 13 Abstract Classes.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 13 Abstract Classes\obj\Debug\net5.0\ref\Day 13 Abstract Classes.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 13 Abstract Classes\obj\Debug\net5.0\Day 13 Abstract Classes.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 13 Abstract Classes\obj\Debug\net5.0\Day 13 Abstract Classes.genruntimeconfig.cache

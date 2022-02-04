@@ -1,0 +1,16 @@
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\C#\Soluções\Soma de divisores\bin\Debug\net5.0\Soma de divisores.exe
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\C#\Soluções\Soma de divisores\bin\Debug\net5.0\Soma de divisores.deps.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\C#\Soluções\Soma de divisores\bin\Debug\net5.0\Soma de divisores.runtimeconfig.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\C#\Soluções\Soma de divisores\bin\Debug\net5.0\Soma de divisores.runtimeconfig.dev.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\C#\Soluções\Soma de divisores\bin\Debug\net5.0\Soma de divisores.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\C#\Soluções\Soma de divisores\bin\Debug\net5.0\ref\Soma de divisores.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\C#\Soluções\Soma de divisores\bin\Debug\net5.0\Soma de divisores.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\C#\Soluções\Soma de divisores\obj\Debug\net5.0\Soma de divisores.csproj.AssemblyReference.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\C#\Soluções\Soma de divisores\obj\Debug\net5.0\Soma de divisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\C#\Soluções\Soma de divisores\obj\Debug\net5.0\Soma de divisores.AssemblyInfoInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\C#\Soluções\Soma de divisores\obj\Debug\net5.0\Soma de divisores.AssemblyInfo.cs
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\C#\Soluções\Soma de divisores\obj\Debug\net5.0\Soma de divisores.csproj.CoreCompileInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\C#\Soluções\Soma de divisores\obj\Debug\net5.0\Soma de divisores.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\C#\Soluções\Soma de divisores\obj\Debug\net5.0\ref\Soma de divisores.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\C#\Soluções\Soma de divisores\obj\Debug\net5.0\Soma de divisores.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\C#\Soluções\Soma de divisores\obj\Debug\net5.0\Soma de divisores.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 9 Recursion 3\bin\Debug\net5.0\Day 9 Recursion 3.exe
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 9 Recursion 3\bin\Debug\net5.0\Day 9 Recursion 3.deps.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 9 Recursion 3\bin\Debug\net5.0\Day 9 Recursion 3.runtimeconfig.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 9 Recursion 3\bin\Debug\net5.0\Day 9 Recursion 3.runtimeconfig.dev.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 9 Recursion 3\bin\Debug\net5.0\Day 9 Recursion 3.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 9 Recursion 3\bin\Debug\net5.0\ref\Day 9 Recursion 3.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 9 Recursion 3\bin\Debug\net5.0\Day 9 Recursion 3.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 9 Recursion 3\obj\Debug\net5.0\Day 9 Recursion 3.csproj.AssemblyReference.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 9 Recursion 3\obj\Debug\net5.0\Day 9 Recursion 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 9 Recursion 3\obj\Debug\net5.0\Day 9 Recursion 3.AssemblyInfoInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 9 Recursion 3\obj\Debug\net5.0\Day 9 Recursion 3.AssemblyInfo.cs
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 9 Recursion 3\obj\Debug\net5.0\Day 9 Recursion 3.csproj.CoreCompileInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 9 Recursion 3\obj\Debug\net5.0\Day 9 Recursion 3.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 9 Recursion 3\obj\Debug\net5.0\ref\Day 9 Recursion 3.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 9 Recursion 3\obj\Debug\net5.0\Day 9 Recursion 3.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 9 Recursion 3\obj\Debug\net5.0\Day 9 Recursion 3.genruntimeconfig.cache

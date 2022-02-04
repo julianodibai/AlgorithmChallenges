@@ -1,0 +1,16 @@
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 5 Loops\bin\Debug\net5.0\Day 5 Loops.exe
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 5 Loops\bin\Debug\net5.0\Day 5 Loops.deps.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 5 Loops\bin\Debug\net5.0\Day 5 Loops.runtimeconfig.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 5 Loops\bin\Debug\net5.0\Day 5 Loops.runtimeconfig.dev.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 5 Loops\bin\Debug\net5.0\Day 5 Loops.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 5 Loops\bin\Debug\net5.0\ref\Day 5 Loops.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 5 Loops\bin\Debug\net5.0\Day 5 Loops.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 5 Loops\obj\Debug\net5.0\Day 5 Loops.csproj.AssemblyReference.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 5 Loops\obj\Debug\net5.0\Day 5 Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 5 Loops\obj\Debug\net5.0\Day 5 Loops.AssemblyInfoInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 5 Loops\obj\Debug\net5.0\Day 5 Loops.AssemblyInfo.cs
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 5 Loops\obj\Debug\net5.0\Day 5 Loops.csproj.CoreCompileInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 5 Loops\obj\Debug\net5.0\Day 5 Loops.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 5 Loops\obj\Debug\net5.0\ref\Day 5 Loops.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 5 Loops\obj\Debug\net5.0\Day 5 Loops.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 5 Loops\obj\Debug\net5.0\Day 5 Loops.genruntimeconfig.cache

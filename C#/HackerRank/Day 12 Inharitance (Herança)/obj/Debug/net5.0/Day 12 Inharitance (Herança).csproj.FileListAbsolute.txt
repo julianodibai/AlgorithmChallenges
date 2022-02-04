@@ -1,0 +1,16 @@
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 12 Inharitance (Herança)\bin\Debug\net5.0\Day 12 Inharitance (Herança).exe
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 12 Inharitance (Herança)\bin\Debug\net5.0\Day 12 Inharitance (Herança).deps.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 12 Inharitance (Herança)\bin\Debug\net5.0\Day 12 Inharitance (Herança).runtimeconfig.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 12 Inharitance (Herança)\bin\Debug\net5.0\Day 12 Inharitance (Herança).runtimeconfig.dev.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 12 Inharitance (Herança)\bin\Debug\net5.0\Day 12 Inharitance (Herança).dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 12 Inharitance (Herança)\bin\Debug\net5.0\ref\Day 12 Inharitance (Herança).dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 12 Inharitance (Herança)\bin\Debug\net5.0\Day 12 Inharitance (Herança).pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 12 Inharitance (Herança)\obj\Debug\net5.0\Day 12 Inharitance (Herança).csproj.AssemblyReference.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 12 Inharitance (Herança)\obj\Debug\net5.0\Day 12 Inharitance (Herança).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 12 Inharitance (Herança)\obj\Debug\net5.0\Day 12 Inharitance (Herança).AssemblyInfoInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 12 Inharitance (Herança)\obj\Debug\net5.0\Day 12 Inharitance (Herança).AssemblyInfo.cs
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 12 Inharitance (Herança)\obj\Debug\net5.0\Day 12 Inharitance (Herança).csproj.CoreCompileInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 12 Inharitance (Herança)\obj\Debug\net5.0\Day 12 Inharitance (Herança).dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 12 Inharitance (Herança)\obj\Debug\net5.0\ref\Day 12 Inharitance (Herança).dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 12 Inharitance (Herança)\obj\Debug\net5.0\Day 12 Inharitance (Herança).pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 12 Inharitance (Herança)\obj\Debug\net5.0\Day 12 Inharitance (Herança).genruntimeconfig.cache

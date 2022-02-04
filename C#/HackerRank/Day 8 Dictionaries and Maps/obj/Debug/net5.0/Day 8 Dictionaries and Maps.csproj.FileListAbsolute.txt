@@ -1,0 +1,16 @@
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 8 Dictionaries and Maps\bin\Debug\net5.0\Day 8 Dictionaries and Maps.exe
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 8 Dictionaries and Maps\bin\Debug\net5.0\Day 8 Dictionaries and Maps.deps.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 8 Dictionaries and Maps\bin\Debug\net5.0\Day 8 Dictionaries and Maps.runtimeconfig.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 8 Dictionaries and Maps\bin\Debug\net5.0\Day 8 Dictionaries and Maps.runtimeconfig.dev.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 8 Dictionaries and Maps\bin\Debug\net5.0\Day 8 Dictionaries and Maps.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 8 Dictionaries and Maps\bin\Debug\net5.0\ref\Day 8 Dictionaries and Maps.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 8 Dictionaries and Maps\bin\Debug\net5.0\Day 8 Dictionaries and Maps.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 8 Dictionaries and Maps\obj\Debug\net5.0\Day 8 Dictionaries and Maps.csproj.AssemblyReference.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 8 Dictionaries and Maps\obj\Debug\net5.0\Day 8 Dictionaries and Maps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 8 Dictionaries and Maps\obj\Debug\net5.0\Day 8 Dictionaries and Maps.AssemblyInfoInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 8 Dictionaries and Maps\obj\Debug\net5.0\Day 8 Dictionaries and Maps.AssemblyInfo.cs
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 8 Dictionaries and Maps\obj\Debug\net5.0\Day 8 Dictionaries and Maps.csproj.CoreCompileInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 8 Dictionaries and Maps\obj\Debug\net5.0\Day 8 Dictionaries and Maps.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 8 Dictionaries and Maps\obj\Debug\net5.0\ref\Day 8 Dictionaries and Maps.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 8 Dictionaries and Maps\obj\Debug\net5.0\Day 8 Dictionaries and Maps.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 8 Dictionaries and Maps\obj\Debug\net5.0\Day 8 Dictionaries and Maps.genruntimeconfig.cache

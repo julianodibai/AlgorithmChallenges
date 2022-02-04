@@ -1,0 +1,16 @@
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 10 Binary Numbers\bin\Debug\net5.0\Day 10 Binary Numbers.exe
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 10 Binary Numbers\bin\Debug\net5.0\Day 10 Binary Numbers.deps.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 10 Binary Numbers\bin\Debug\net5.0\Day 10 Binary Numbers.runtimeconfig.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 10 Binary Numbers\bin\Debug\net5.0\Day 10 Binary Numbers.runtimeconfig.dev.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 10 Binary Numbers\bin\Debug\net5.0\Day 10 Binary Numbers.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 10 Binary Numbers\bin\Debug\net5.0\ref\Day 10 Binary Numbers.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 10 Binary Numbers\bin\Debug\net5.0\Day 10 Binary Numbers.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 10 Binary Numbers\obj\Debug\net5.0\Day 10 Binary Numbers.csproj.AssemblyReference.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 10 Binary Numbers\obj\Debug\net5.0\Day 10 Binary Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 10 Binary Numbers\obj\Debug\net5.0\Day 10 Binary Numbers.AssemblyInfoInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 10 Binary Numbers\obj\Debug\net5.0\Day 10 Binary Numbers.AssemblyInfo.cs
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 10 Binary Numbers\obj\Debug\net5.0\Day 10 Binary Numbers.csproj.CoreCompileInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 10 Binary Numbers\obj\Debug\net5.0\Day 10 Binary Numbers.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 10 Binary Numbers\obj\Debug\net5.0\ref\Day 10 Binary Numbers.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 10 Binary Numbers\obj\Debug\net5.0\Day 10 Binary Numbers.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 10 Binary Numbers\obj\Debug\net5.0\Day 10 Binary Numbers.genruntimeconfig.cache

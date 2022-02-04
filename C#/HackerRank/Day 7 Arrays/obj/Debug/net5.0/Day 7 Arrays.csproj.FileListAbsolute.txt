@@ -1,0 +1,16 @@
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 7 Arrays\bin\Debug\net5.0\Day 7 Arrays.exe
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 7 Arrays\bin\Debug\net5.0\Day 7 Arrays.deps.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 7 Arrays\bin\Debug\net5.0\Day 7 Arrays.runtimeconfig.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 7 Arrays\bin\Debug\net5.0\Day 7 Arrays.runtimeconfig.dev.json
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 7 Arrays\bin\Debug\net5.0\Day 7 Arrays.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 7 Arrays\bin\Debug\net5.0\ref\Day 7 Arrays.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 7 Arrays\bin\Debug\net5.0\Day 7 Arrays.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 7 Arrays\obj\Debug\net5.0\Day 7 Arrays.csproj.AssemblyReference.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 7 Arrays\obj\Debug\net5.0\Day 7 Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 7 Arrays\obj\Debug\net5.0\Day 7 Arrays.AssemblyInfoInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 7 Arrays\obj\Debug\net5.0\Day 7 Arrays.AssemblyInfo.cs
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 7 Arrays\obj\Debug\net5.0\Day 7 Arrays.csproj.CoreCompileInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 7 Arrays\obj\Debug\net5.0\Day 7 Arrays.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 7 Arrays\obj\Debug\net5.0\ref\Day 7 Arrays.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 7 Arrays\obj\Debug\net5.0\Day 7 Arrays.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\estudo\VSCode\HackerRank\Day 7 Arrays\obj\Debug\net5.0\Day 7 Arrays.genruntimeconfig.cache
