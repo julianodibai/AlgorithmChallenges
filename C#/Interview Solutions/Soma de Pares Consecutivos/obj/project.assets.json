@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juliano\\OneDrive\\Documents\\Estudo\\Training\\AlgorithmChallenges\\C#\\Interview Solutions\\Quadrado e ao Cubo\\DIO.csproj",
-      "projectName": "DIO",
-      "projectPath": "C:\\Users\\juliano\\OneDrive\\Documents\\Estudo\\Training\\AlgorithmChallenges\\C#\\Interview Solutions\\Quadrado e ao Cubo\\DIO.csproj",
+      "projectUniqueName": "C:\\Users\\juliano\\OneDrive\\Documents\\Estudo\\Training\\AlgorithmChallenges\\C#\\Interview Solutions\\Soma de Pares Consecutivos\\Soma de Pares Consecutivos.csproj",
+      "projectName": "Soma de Pares Consecutivos",
+      "projectPath": "C:\\Users\\juliano\\OneDrive\\Documents\\Estudo\\Training\\AlgorithmChallenges\\C#\\Interview Solutions\\Soma de Pares Consecutivos\\Soma de Pares Consecutivos.csproj",
       "packagesPath": "C:\\Users\\juliano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juliano\\OneDrive\\Documents\\Estudo\\Training\\AlgorithmChallenges\\C#\\Interview Solutions\\Quadrado e ao Cubo\\obj\\",
+      "outputPath": "C:\\Users\\juliano\\OneDrive\\Documents\\Estudo\\Training\\AlgorithmChallenges\\C#\\Interview Solutions\\Soma de Pares Consecutivos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juliano\\AppData\\Roaming\\NuGet\\NuGet.Config",
