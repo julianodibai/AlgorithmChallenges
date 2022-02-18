@@ -1,0 +1,15 @@
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\Mês\bin\Debug\net6.0\Mês.exe
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\Mês\bin\Debug\net6.0\Mês.deps.json
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\Mês\bin\Debug\net6.0\Mês.runtimeconfig.json
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\Mês\bin\Debug\net6.0\Mês.dll
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\Mês\bin\Debug\net6.0\ref\Mês.dll
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\Mês\bin\Debug\net6.0\Mês.pdb
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\Mês\obj\Debug\net6.0\Mês.csproj.AssemblyReference.cache
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\Mês\obj\Debug\net6.0\Mês.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\Mês\obj\Debug\net6.0\Mês.AssemblyInfoInputs.cache
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\Mês\obj\Debug\net6.0\Mês.AssemblyInfo.cs
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\Mês\obj\Debug\net6.0\Mês.csproj.CoreCompileInputs.cache
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\Mês\obj\Debug\net6.0\Mês.dll
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\Mês\obj\Debug\net6.0\ref\Mês.dll
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\Mês\obj\Debug\net6.0\Mês.pdb
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\Mês\obj\Debug\net6.0\Mês.genruntimeconfig.cache
