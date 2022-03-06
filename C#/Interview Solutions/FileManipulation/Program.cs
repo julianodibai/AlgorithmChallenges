@@ -1,7 +1,16 @@
-﻿using static System.Console;
+﻿namespace FileManipulation
+{
+    public class ProgramFile
+    {
+        static void Main()
+        {
+            var import = new ImportCsv();
+            import.Reader();
 
-var path = Path.Combine(Environment.CurrentDirectory,
-                         "Entrada", "usuarios-exportacao.csv");
+            var export = new ExportCsv();
+            export.CreateCsv();
 
-var import = new Import();
-import.Reader(path);
+        }
+    }
+
+}
