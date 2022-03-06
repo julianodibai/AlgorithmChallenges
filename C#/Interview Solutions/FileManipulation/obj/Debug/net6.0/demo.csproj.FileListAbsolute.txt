@@ -1,0 +1,45 @@
+C:\Users\juliano\OneDrive\Área de Trabalho\demo\bin\Debug\net6.0\demo.exe
+C:\Users\juliano\OneDrive\Área de Trabalho\demo\bin\Debug\net6.0\demo.deps.json
+C:\Users\juliano\OneDrive\Área de Trabalho\demo\bin\Debug\net6.0\demo.runtimeconfig.json
+C:\Users\juliano\OneDrive\Área de Trabalho\demo\bin\Debug\net6.0\demo.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\demo\bin\Debug\net6.0\ref\demo.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\demo\bin\Debug\net6.0\demo.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\demo\obj\Debug\net6.0\demo.csproj.AssemblyReference.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\demo\obj\Debug\net6.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano\OneDrive\Área de Trabalho\demo\obj\Debug\net6.0\demo.AssemblyInfoInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\demo\obj\Debug\net6.0\demo.AssemblyInfo.cs
+C:\Users\juliano\OneDrive\Área de Trabalho\demo\obj\Debug\net6.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\demo\obj\Debug\net6.0\demo.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\demo\obj\Debug\net6.0\ref\demo.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\demo\obj\Debug\net6.0\demo.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\demo\obj\Debug\net6.0\demo.genruntimeconfig.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\FileManipulation\bin\Debug\net6.0\demo.exe
+C:\Users\juliano\OneDrive\Área de Trabalho\FileManipulation\bin\Debug\net6.0\demo.deps.json
+C:\Users\juliano\OneDrive\Área de Trabalho\FileManipulation\bin\Debug\net6.0\demo.runtimeconfig.json
+C:\Users\juliano\OneDrive\Área de Trabalho\FileManipulation\bin\Debug\net6.0\demo.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\FileManipulation\bin\Debug\net6.0\ref\demo.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\FileManipulation\bin\Debug\net6.0\demo.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\FileManipulation\obj\Debug\net6.0\demo.csproj.AssemblyReference.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\FileManipulation\obj\Debug\net6.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano\OneDrive\Área de Trabalho\FileManipulation\obj\Debug\net6.0\demo.AssemblyInfoInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\FileManipulation\obj\Debug\net6.0\demo.AssemblyInfo.cs
+C:\Users\juliano\OneDrive\Área de Trabalho\FileManipulation\obj\Debug\net6.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\juliano\OneDrive\Área de Trabalho\FileManipulation\obj\Debug\net6.0\demo.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\FileManipulation\obj\Debug\net6.0\ref\demo.dll
+C:\Users\juliano\OneDrive\Área de Trabalho\FileManipulation\obj\Debug\net6.0\demo.pdb
+C:\Users\juliano\OneDrive\Área de Trabalho\FileManipulation\obj\Debug\net6.0\demo.genruntimeconfig.cache
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\FileManipulation\bin\Debug\net6.0\demo.exe
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\FileManipulation\bin\Debug\net6.0\demo.deps.json
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\FileManipulation\bin\Debug\net6.0\demo.runtimeconfig.json
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\FileManipulation\bin\Debug\net6.0\demo.dll
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\FileManipulation\bin\Debug\net6.0\ref\demo.dll
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\FileManipulation\bin\Debug\net6.0\demo.pdb
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\FileManipulation\obj\Debug\net6.0\demo.csproj.AssemblyReference.cache
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\FileManipulation\obj\Debug\net6.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\FileManipulation\obj\Debug\net6.0\demo.AssemblyInfoInputs.cache
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\FileManipulation\obj\Debug\net6.0\demo.AssemblyInfo.cs
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\FileManipulation\obj\Debug\net6.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\FileManipulation\obj\Debug\net6.0\demo.dll
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\FileManipulation\obj\Debug\net6.0\ref\demo.dll
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\FileManipulation\obj\Debug\net6.0\demo.pdb
+C:\Users\juliano\OneDrive\Documents\Estudo\Training\AlgorithmChallenges\C#\Interview Solutions\FileManipulation\obj\Debug\net6.0\demo.genruntimeconfig.cache
